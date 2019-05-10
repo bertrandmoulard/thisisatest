@@ -4,6 +4,10 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
  */
 
+.try-it-menu {
+  margin-top:6px;
+}
+
 .teatree-ss {
  width: 70%;
  margin-bottom: 75px;
@@ -12,6 +16,10 @@
 
 .try-it-btn {
   margin-bottom: 50px;
+}
+
+.intro-description {
+  padding-bottom: 50px;
 }
 
 body {
